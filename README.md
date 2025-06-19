@@ -88,10 +88,48 @@ Used primarily for:
 ![Taskbar Layout Screenshot](https://github.com/Montilla007/My-Windows-Setup/blob/main/img/Screenshot%20(415).png?raw=true)
 
 
-
 ## 📦 How to Use This Setup
 
-> _Optional: Add export files, JSON configs, or links to your settings if you'd like others to reproduce it_
+### 🔲 DWMBlurGlass Configuration
+
+1. Go to **General > Effect Settings**:
+   - Toggle **Blur Radius (global)** to **enabled**
+   - Set **Blur Radius** to `50`
+
+2. Go to **General > LightMode Colors**:
+   - Set **Active Text Color** to `255, 255, 255` (White)
+
+3. Go to **Advanced > Effect Type**:
+   - Change it to `Aero`
+
+---
+
+### 🪟 GlazeWM
+
+- No additional changes required. Use the default configuration or customize via `glazewm.config.json` if desired.
+
+---
+
+### 🎨 Zebar Configuration
+
+1. Go to **Widget Configs > starter > with-glazewm**
+2. Toggle **Transparent** to **on** for a clean bar look.
+
+---
+
+### 🔍 PowerToys Configuration
+
+1. **Disable the Peek Module**:
+   - In the **PowerToys Settings**, go to **Peek**
+   - Toggle it **off**
+
+2. **Change PowerToys Run shortcut**:
+   - Go to **PowerToys Run**
+   - Change the activation shortcut to: `Ctrl + Space`
+
+---
+
+> 💾 Tip: Most of these tools save settings automatically. For backup or versioning, export configs or dotfiles as needed.
 
 ---
 
