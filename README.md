@@ -73,10 +73,14 @@ Used primarily for:
 
 ## 📸 Screenshots
 
-![Screenshot] (https://github.com/Montilla007/My-Windows-Setup/blob/main/img/Screenshot%20(413).png?raw=true)
+### 📷 Desktop View
 
-![Screenshot] (https://github.com/Montilla007/My-Windows-Setup/blob/main/img/Screenshot%20(414).png?raw=true)
----
+![Desktop Screenshot](https://github.com/Montilla007/My-Windows-Setup/blob/main/img/Screenshot%20(413).png?raw=true)
+
+### 📂 Window Layout Example
+
+![Window Layout Screenshot](https://github.com/Montilla007/My-Windows-Setup/blob/main/img/Screenshot%20(414).png?raw=true)
+
 
 ## 📦 How to Use This Setup
 
