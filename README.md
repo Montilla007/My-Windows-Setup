@@ -75,8 +75,7 @@ Used primarily for:
 
 ![Screenshot] (https://github.com/Montilla007/My-Windows-Setup/blob/main/img/Screenshot%20(413).png?raw=true)
 
-![Screenshot] ([https://github.com/Montilla007/My-Windows-Setup/blob/main/img/Screenshot%20(413).png?raw=true](https://github.com/Montilla007/My-Windows-Setup/blob/main/img/Screenshot%20(414).png?raw=true))
-
+![Screenshot] (https://github.com/Montilla007/My-Windows-Setup/blob/main/img/Screenshot%20(414).png?raw=true)
 ---
 
 ## 📦 How to Use This Setup
