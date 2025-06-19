@@ -16,10 +16,10 @@ A personal configuration of my customized Windows 11 desktop experience. This se
 
 ## 🛠️ Tools & Tweaks
 
-### 🔲 **DWMBlurGlass**
+### 🔲 DWMBlurGlass  
 Adds acrylic/blur effects to native window borders and background.
 
-### 🪟 **FluentLayout (Microsoft Store)**
+### 🪟 FluentLayout (Microsoft Store)  
 Fluent-inspired window layout tool for snapping and organizing windows.
 
 ---
@@ -41,41 +41,48 @@ WindHawk is used to modify Windows system behavior with the following mods:
 4. **Windows 11 Taskbar Styler**
    - `Theme`: `TranslucentTaskbar`
 
-Install WindHawk: [https://windhawk.net](https://windhawk.net)
+📦 Install WindHawk: [https://windhawk.net](https://windhawk.net)
 
 ---
 
 ## 🔍 PowerToys
 
 Used primarily for:
+
 - Advanced file and app search (`PowerToys Run`)
 - Window snapping
 - FancyZones (optional)
 
-Download: [https://learn.microsoft.com/en-us/windows/powertoys/](https://learn.microsoft.com/en-us/windows/powertoys/)
+📦 Install PowerToys:  
+[https://learn.microsoft.com/en-us/windows/powertoys/install](https://learn.microsoft.com/en-us/windows/powertoys/install)
 
 ---
 
 ## 🪟 Window Management: GlazeWM + Zebar
 
-- **GlazeWM**: Tiling window manager for Windows
+- **GlazeWM**: Tiling window manager for Windows  
 - **Zebar**: Stylish top bar compatible with GlazeWM for a clean layout
 
-📦 [GlazeWM GitHub](https://github.com/larsenwork/GlazeWM)  
+📦 Install GlazeWM & Zebar:  
+[https://github.com/glzr-io/glazewm](https://github.com/glzr-io/glazewm)
+
+📖 [GlazeWM GitHub](https://github.com/larsenwork/GlazeWM)  
 🎨 [Zebar GitHub](https://github.com/zebar-dev/zebar)
 
 ---
 
 ## 📸 Screenshots
 
-> _(Add your screenshots here showing the setup in action)_  
-> e.g. `![Screenshot](screenshots/desktop.png)`
+> _Add your screenshots here showing the setup in action_  
+> Example:  
+> `![Screenshot](img/Screenshot(413).png)`
+> `![Screenshot](img/Screenshot(414).png)`
 
 ---
 
 ## 📦 How to Use This Setup
 
-> _(Optional: Add export files, JSON configs, or links to your settings if you'd like others to reproduce it)_
+> _Optional: Add export files, JSON configs, or links to your settings if you'd like others to reproduce it_
 
 ---
 
@@ -87,10 +94,7 @@ This setup is for personal use. Attribution for third-party tools belongs to the
 
 ## 🙌 Credits
 
-- [WindHawk](https://windhawk.net)
-- [PowerToys](https://github.com/microsoft/PowerToys)
-- [GlazeWM](https://github.com/larsenwork/GlazeWM)
+- [WindHawk](https://windhawk.net)  
+- [PowerToys](https://github.com/microsoft/PowerToys)  
+- [GlazeWM](https://github.com/larsenwork/GlazeWM)  
 - [Zebar](https://github.com/zebar-dev/zebar)
-
----
-
