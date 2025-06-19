@@ -73,6 +73,8 @@ Used primarily for:
 
 ## 📸 Screenshots
 
+> 💡 **Wallpaper:** [Stay Focused – 5120x2880 (Reddit)](https://www.reddit.com/r/wallpaper/comments/1kvm98l/stay_focused_5120x_2880/)
+
 ### 📷 Desktop View
 
 ![Desktop Screenshot](https://github.com/Montilla007/My-Windows-Setup/blob/main/img/Screenshot%20(413).png?raw=true)
@@ -80,6 +82,11 @@ Used primarily for:
 ### 📂 Window Layout Example
 
 ![Window Layout Screenshot](https://github.com/Montilla007/My-Windows-Setup/blob/main/img/Screenshot%20(414).png?raw=true)
+
+### 🧰 Taskbar Layout Example
+
+![Taskbar Layout Screenshot](https://github.com/Montilla007/My-Windows-Setup/blob/main/img/Screenshot%20(415).png?raw=true)
+
 
 
 ## 📦 How to Use This Setup
