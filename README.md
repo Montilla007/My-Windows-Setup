@@ -73,8 +73,8 @@ Used primarily for:
 
 ## 📸 Screenshots
 
- ![Screenshot](img/Screenshot(413).png)
- ![Screenshot](img/Screenshot(414).png)
+ ![Screenshot]([img/Screenshot(413).png](https://github.com/Montilla007/My-Windows-Setup/blob/4a8c4eb2bbcc1f94862545b9b84ac29673be654b/img/Screenshot%20(413).png))
+ ![Screenshot]([img/Screenshot(414).png](https://github.com/Montilla007/My-Windows-Setup/blob/4a8c4eb2bbcc1f94862545b9b84ac29673be654b/img/Screenshot%20(414).png))
 
 ---
 
