@@ -73,10 +73,8 @@ Used primarily for:
 
 ## 📸 Screenshots
 
-> _Add your screenshots here showing the setup in action_  
-> Example:  
-> `![Screenshot](img/Screenshot(413).png)`
-> `![Screenshot](img/Screenshot(414).png)`
+ `![Screenshot](img/Screenshot(413).png)`
+ `![Screenshot](img/Screenshot(414).png)`
 
 ---
 
